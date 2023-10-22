@@ -8,6 +8,7 @@ This Bash script allows you to list GitHub repository collaborators with read ac
 Before using this script, you need to ensure you have the following:
 
 - [jq](https://stedolan.github.io/jq/): A lightweight and flexible command-line JSON processor. You can install it in your system if it's not already available.
+
   ```
   sudo apt install jq -y
 
